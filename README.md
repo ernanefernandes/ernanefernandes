@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Ernane
+Welcome my Git!
 #### I am Full-Stack developer in love for always learning new technologies in my free time
 I currently work with development  back - end and studying in Front-End free - Time 
 
